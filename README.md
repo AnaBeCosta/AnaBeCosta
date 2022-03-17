@@ -10,7 +10,6 @@
   <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="120em" align="right" alt="Ana-emoij" src="https://cdn.discordapp.com/attachments/751631968168312855/872688212043259944/Webp.net-gifmaker_1.gif">
 </div>
   
   ##
